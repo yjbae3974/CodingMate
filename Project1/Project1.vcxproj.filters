@@ -21,5 +21,8 @@
     <ClCompile Include="2day.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
