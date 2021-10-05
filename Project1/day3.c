@@ -26,7 +26,8 @@ int findMax(int a, int b) {
 }
 
 int main() {
-	char str[];
+	//github commit 실험용
+	int a, b;
 	int times;
 	int init;
 	printf("숫자 두 개를 입력해주세요(ex. '3 5'):");
